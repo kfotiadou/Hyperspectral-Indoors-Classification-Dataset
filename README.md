@@ -16,4 +16,4 @@
 
 The dataset contains 90 images that were acquired under different illumination conditions and from different view-points.
 
-The dataset contains both the 2D Snapshot Mosaic images in *.pgm format, and the 3D hyper-cubes in *.mat format.
+The dataset contains both the 2D Snapshot Mosaic images in *.png format, and the 3D hyper-cubes in *.mat format.
